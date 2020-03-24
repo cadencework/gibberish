@@ -6,6 +6,3 @@ let's see how many commits i can make
 
 do all of these commits annoying
 
-another commit
-
-commit size matter? does it?
